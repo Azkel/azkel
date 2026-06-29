@@ -1,55 +1,45 @@
 # Hi, I'm Michał Smyk 👋
 
-Technical DevOps Lead focused on **Azure Platform Engineering**, **AI-native Engineering**, and **AgentOps**.
+**Technical DevOps Lead** · Azure Platform Engineering · AI-native Engineering
 
-I share practical lessons learned from building cloud platforms, automation solutions, and developer productivity workflows in real-world projects.
+Platform engineer at [SoftServe Poland](https://www.softserveinc.com/) — building and operating Azure platforms, automation, and developer productivity workflows. Exploring how AI-native systems and agents can be governed and operated on Azure — learning in public, not influencer positioning.
 
-## Current Focus
+## Current focus
 
-* Azure Platform Engineering
-* DevOps Automation
-* AI-native Engineering
-* AgentOps
-* Model Context Protocol (MCP)
-* Azure AI Foundry
-* GitHub Copilot
-* Developer Productivity
+**Foundation (earned):**
 
-## Writing & Speaking
+* Azure Platform Engineering and landing zones
+* DevOps, Terraform, and infrastructure as code
+* Microsoft Entra, CI/CD, and developer productivity
 
-I regularly write and speak about:
+**Growth (learning in public):**
 
-* Azure Landing Zones
-* Platform Engineering
-* Terraform and Infrastructure as Code
-* Azure AI Services
-* AI-assisted Software Delivery
-* Engineering Automation
-  
-## Featured Resources
+* Operating AI workloads on Azure — platform patterns first, agents and MCP as workloads
+* [Azure AI Platform Labs](https://github.com/Azkel/azure-ai-platform) — small shippable labs, not a monolith
 
-🌐 **Website & Blog**
-https://smyk.it
+## Writing & speaking
 
-🎤 **Talks & Presentations**
-https://smyk.it/talks
+Implementation stories from real projects — not news recaps or prompt tutorials:
 
-💼 **LinkedIn**
-https://linkedin.com/in/michal-smyk
+* Platform engineering for AI-native systems on Azure
+* Landing zones, identity, and IaC
+* Terraform and Azure AI Foundry (where it fits the platform story)
+* AI-assisted software delivery and engineering automation
 
-🐘 **Mastodon**
-https://mastodon.com.pl/@azkel
+## Featured resources
 
-## What I'm Building
+📝 **Blog** — [blog.smyk.it](https://blog.smyk.it/)
 
-Currently experimenting with:
+🎤 **Talks & demo repos** — [blog.smyk.it/talks/](https://blog.smyk.it/talks/)
 
-* Azure Platform Engineering reference implementations
-* AgentOps practices and tooling
-* MCP integrations
-* Azure AI Foundry labs
-* Developer productivity workflows
+🧪 **Azure AI Platform Labs** — [github.com/Azkel/azure-ai-platform](https://github.com/Azkel/azure-ai-platform)
+
+📜 **Microsoft Learn transcript** — [learn.microsoft.com/.../azkel](https://learn.microsoft.com/en-gb/users/azkel/transcript/7kqof86wzoy43y7)
+
+💼 **LinkedIn** — [linkedin.com/in/michal-smyk](https://www.linkedin.com/in/michal-smyk/)
+
+🌐 **Homepage** — [smyk.it](https://smyk.it/)
 
 ---
 
-> Azure Platform Engineering, DevOps & AgentOps practitioner sharing lessons learned from real-world projects.
+> Platform engineer sharing lessons learned from building cloud platforms — and honestly exploring AI-native systems on Azure.
