@@ -14,12 +14,11 @@ Platform engineer at [SoftServe Poland](https://www.softserveinc.com/) — build
 
 **Growth (learning in public):**
 
-* [Hosted Agents](https://github.com/Azkel/azure-ai-platform/tree/main/labs/hosted-agents) — demoable lab: Azure AI Foundry Hosted Agents with Terraform, GitHub Actions, and managed-identity access to Storage and Key Vault
 * Platform patterns for AI workloads on Azure — agents and MCP as workloads on that foundation ([Azure AI Platform Labs](https://github.com/Azkel/azure-ai-platform))
 
 ## Recent work
 
-* [Hosted Agents lab](https://github.com/Azkel/azure-ai-platform/tree/main/labs/hosted-agents) — runnable Foundry Hosted Agents reference (IaC + CI/CD + sample agent)
+* [Hosted Agents lab](https://github.com/Azkel/azure-ai-platform/tree/main/labs/hosted-agents) — demoable Foundry Hosted Agents reference (Terraform, GitHub Actions, managed-identity access to Storage and Key Vault)
 * [Scaffolding before agents](https://blog.smyk.it/posts/2026/ai-now-polska-azure-devops-tooling/) — AI tooling for Azure DevOps work (AI Now Polska 2026)
 * [Chat, files, and Terraform](https://blog.smyk.it/posts/2026/azure-ai-foundry-terraform/) — building AI on Azure (SysOps Wrocław MeetUp #25)
 * [Entra External Identities over B2C](https://blog.smyk.it/posts/2026/entra-external-identities-b2c-migration/) — greenfield product lessons (Warsaw IT Days 2026)
